@@ -1,0 +1,14 @@
+C:\Users\luiz-\OneDrive - UNINTER - Aluno\Material_Dio_C#_BootCamp\Poo_Dio\bin\Debug\net8.0\Poo_Dio.exe
+C:\Users\luiz-\OneDrive - UNINTER - Aluno\Material_Dio_C#_BootCamp\Poo_Dio\bin\Debug\net8.0\Poo_Dio.deps.json
+C:\Users\luiz-\OneDrive - UNINTER - Aluno\Material_Dio_C#_BootCamp\Poo_Dio\bin\Debug\net8.0\Poo_Dio.runtimeconfig.json
+C:\Users\luiz-\OneDrive - UNINTER - Aluno\Material_Dio_C#_BootCamp\Poo_Dio\bin\Debug\net8.0\Poo_Dio.dll
+C:\Users\luiz-\OneDrive - UNINTER - Aluno\Material_Dio_C#_BootCamp\Poo_Dio\bin\Debug\net8.0\Poo_Dio.pdb
+C:\Users\luiz-\OneDrive - UNINTER - Aluno\Material_Dio_C#_BootCamp\Poo_Dio\obj\Debug\net8.0\Poo_Dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz-\OneDrive - UNINTER - Aluno\Material_Dio_C#_BootCamp\Poo_Dio\obj\Debug\net8.0\Poo_Dio.AssemblyInfoInputs.cache
+C:\Users\luiz-\OneDrive - UNINTER - Aluno\Material_Dio_C#_BootCamp\Poo_Dio\obj\Debug\net8.0\Poo_Dio.AssemblyInfo.cs
+C:\Users\luiz-\OneDrive - UNINTER - Aluno\Material_Dio_C#_BootCamp\Poo_Dio\obj\Debug\net8.0\Poo_Dio.csproj.CoreCompileInputs.cache
+C:\Users\luiz-\OneDrive - UNINTER - Aluno\Material_Dio_C#_BootCamp\Poo_Dio\obj\Debug\net8.0\Poo_Dio.dll
+C:\Users\luiz-\OneDrive - UNINTER - Aluno\Material_Dio_C#_BootCamp\Poo_Dio\obj\Debug\net8.0\refint\Poo_Dio.dll
+C:\Users\luiz-\OneDrive - UNINTER - Aluno\Material_Dio_C#_BootCamp\Poo_Dio\obj\Debug\net8.0\Poo_Dio.pdb
+C:\Users\luiz-\OneDrive - UNINTER - Aluno\Material_Dio_C#_BootCamp\Poo_Dio\obj\Debug\net8.0\Poo_Dio.genruntimeconfig.cache
+C:\Users\luiz-\OneDrive - UNINTER - Aluno\Material_Dio_C#_BootCamp\Poo_Dio\obj\Debug\net8.0\ref\Poo_Dio.dll
